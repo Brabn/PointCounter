@@ -55,7 +55,7 @@ Each change of players score or mode change will checks whether we have reached 
 
 ## Wiring diagram
 
-![Score board wiring diagram](Pictures/ScoreBoard.NewGame.jpg)
+![Score board wiring diagram](Pictures/ScoreBoard.Wiring_diagram.jpg)
 
 ## Possible system improvements
 - [ ] Personalization of players (adding names, pictograms etc.)
