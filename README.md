@@ -15,7 +15,7 @@ The system is assembled in a compact case and does not require external power su
 
 ## Display interface
 
-System include symbolic LCD display 1602 (2 rows 16 symbols each)
+System includes symbolic LCD display 1602 (2 rows 16 symbols each)
 In standard mode display shows current scores of each player (`Player 1:##` and `Player 2:##`) and final goal (`max ##`)
 Short press on "Score" button will increment score point to corresponding player.
 
@@ -44,7 +44,7 @@ Each change of players score or mode change will checks whether we have reached 
 * Pixel size			– 0.5x0.5 mm
 * Power supply 			– 4,5..5V (3xAA 1.5V batteries or 4xAA 1.2V accumulators)
 * Case dimensions		– 75x60x20 mm
-* Weight				– 180g (with batteries)
+* Weight				– 180g (with batteries and case)
 
 ## Components
 * [Arduino Uno](https://amzn.to/3sd5Qp6)			- 1pcs.
@@ -59,11 +59,13 @@ Each change of players score or mode change will checks whether we have reached 
 
 ## Possible system improvements
 - [ ] Personalization of players (adding names, pictograms etc.)
-- [ ] Increas qunatity of players
+- [ ] Increased quantity of players
+- [ ] Adding timers for each move and the game as a whole
 - [ ] Bigger screen (LCD 1604 or TFT display with graphics)
-- [ ] Connection to fullsize displays
-- [ ] Sound effects (replacing buzzer by speacker, mp3 support etc.)
-- [ ] Remote control (bluetooth, web-interface)
+- [ ] Connection to full size displays
+- [ ] Sound effects (replacing buzzer by speaker, mp3 support etc.)
+- [ ] Remote control (Bluetooth, web-interface)
+
 
 ## Photos
 
