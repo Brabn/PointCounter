@@ -1,5 +1,5 @@
 # Score Board
-Simple score counter with LCD screen to count board game score. 
+[Simple score counter with LCD screen](https://techi-news.com/Projects/Score-counter-for-board-games-with-LCD-screen) to count board game score. 
 
 ![Score board in work](Pictures/ScoreBoard.InWork.jpg)
 
